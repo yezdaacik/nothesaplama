@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Not hesaplama\Not hesaplama\obj\Debug\Not hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Not hesaplama\Not hesaplama\obj\Debug\Not hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Not hesaplama\Not hesaplama\obj\Debug\Not_hesaplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Not hesaplama\Not hesaplama\obj\Debug\Not_hesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Not hesaplama\Not hesaplama\obj\Debug\Not hesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Not hesaplama\Not hesaplama\obj\Debug\Not hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Not hesaplama\Not hesaplama\bin\Debug\Not hesaplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Not hesaplama\Not hesaplama\bin\Debug\Not hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Not hesaplama\Not hesaplama\bin\Debug\Not hesaplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Not hesaplama\Not hesaplama\obj\Debug\Not hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Not hesaplama\Not hesaplama\obj\Debug\Not hesaplama.pdb
